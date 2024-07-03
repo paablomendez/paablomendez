@@ -1,10 +1,10 @@
-[![](https://visitcount.itsvg.in/api?id=E7OY&icon=0&color=1)](https://visitcount.itsvg.in)
+
 
 # Hi 👋, I'm Pablo Gonzalez Mendez
 # 💫 About Me:
 💻 Junior Web Developer<br>👨‍💻 Currently a student of DAW (Web Application Development) at Liceo La Paz<br>📍 From Galicia, Spain<br>📫 How to reach me: pablo2003gonzalez@gmail.com<br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&random=false&width=435&lines=Personal+Website%3A+https%3A%2F%2Fe7oy.github.io)]()
+[![Typing SVG]()]()
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pablo-gonzalez-mendez-5b8358184?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BsdmgYWBqQGWKMFFi9ElJhg%3D%3D) 
