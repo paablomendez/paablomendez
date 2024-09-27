@@ -30,9 +30,5 @@
 <br/>
 
 ![VSC](https://img.shields.io/badge/visualstudiocode-%231572B6.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![GIT](https://img.shields.io/badge/GIT-%23E34F26.svg?style=for-the-badge&logo=GIT&logoColor=white)
 ![GITHUB](https://img.shields.io/badge/GITHUB-%23323330.svg?style=for-the-badge&logo=github&logoColor=white)
-![cPanel](https://img.shields.io/badge/cpanel-%23E34F26.svg?style=for-the-badge&logo=cpanel&logoColor=white)
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) 
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) 
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) 
+
