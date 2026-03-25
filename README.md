@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Pablo Gonzalez Mendez
 # 💫 About Me:
-💻 Junior Web Developer<br>👨‍💻 Currently a student of DAW (Web Application Development) at Liceo La Paz<br>📍 From Galicia, Spain<br>📫 How to reach me: pablo2003gonzalez@gmail.com<br>
+💻 Junior Web Developer<br>👨‍💻 Currently a student of DAW (Web Application Development) at IES Fernando Wirtz<br>📍 From Galicia, Spain<br>📫 How to reach me: pablo2003gonzalez@gmail.com<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pablo-gonzalez-mendez-5b8358184?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BsdmgYWBqQGWKMFFi9ElJhg%3D%3D) 
